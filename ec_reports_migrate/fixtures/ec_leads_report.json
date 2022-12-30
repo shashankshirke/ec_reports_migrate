@@ -1,0 +1,3315 @@
+[
+ {
+  "date": "2021-06-08",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000001",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-06-09 00:17:52.259229",
+  "name": "LED000001",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-11",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000002",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-06-11 15:19:13.617153",
+  "name": "LED000002",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-12",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000003",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-06-12 15:14:33.442011",
+  "name": "LED000003",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-15",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000004",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 2.0
+   }
+  ],
+  "leads_total": "2",
+  "modified": "2021-06-15 11:46:26.925212",
+  "name": "LED000004",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-16",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000005",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-06-16 10:36:04.936133",
+  "name": "LED000005",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-17",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000006",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-06-17 18:41:11.067528",
+  "name": "LED000006",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-18",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000007",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-06-18 10:45:01.028967",
+  "name": "LED000007",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-19",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000008",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-06-19 11:46:21.679566",
+  "name": "LED000008",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-21",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000009",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-06-21 13:33:14.513933",
+  "name": "LED000009",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-22",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000010",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 12.0
+   }
+  ],
+  "leads_total": "12",
+  "modified": "2021-06-22 15:57:16.795463",
+  "name": "LED000010",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-23",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000011",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-06-23 11:22:43.115760",
+  "name": "LED000011",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-26",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Cataloging",
+    "parent": "LED000012",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 9.0
+   },
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000012",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 8.0
+   }
+  ],
+  "leads_total": "17",
+  "modified": "2021-06-26 10:49:30.385941",
+  "name": "LED000012",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-28",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000013",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-06-28 13:34:29.396349",
+  "name": "LED000013",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-29",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000014",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-06-29 14:05:28.337929",
+  "name": "LED000014",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-30",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000015",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-06-30 15:01:34.144122",
+  "name": "LED000015",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-01",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000016",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-07-01 15:39:12.887437",
+  "name": "LED000016",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-02",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000017",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-07-02 10:44:09.259222",
+  "name": "LED000017",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-03",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000018",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   },
+   {
+    "desc": null,
+    "details": "SPN - Cataloging",
+    "parent": "LED000018",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   },
+   {
+    "desc": null,
+    "details": "SPN - Other",
+    "parent": "LED000018",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "30",
+  "modified": "2021-07-03 11:11:04.714710",
+  "name": "LED000018",
+  "notes": "SPN-OTHER - Seller Reinstatement -10",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-05",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000019",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-07-05 18:52:03.715037",
+  "name": "LED000019",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-06",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000020",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-07-06 12:48:00.239622",
+  "name": "LED000020",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-07",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000021",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-07-07 11:35:45.703535",
+  "name": "LED000021",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-08",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000022",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-07-08 18:56:10.320825",
+  "name": "LED000022",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-09",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Cataloging",
+    "parent": "LED000023",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 11.0
+   }
+  ],
+  "leads_total": "11",
+  "modified": "2021-07-09 12:37:23.833690",
+  "name": "LED000023",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-12",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000024",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 9.0
+   }
+  ],
+  "leads_total": "9",
+  "modified": "2021-07-12 13:30:21.831733",
+  "name": "LED000024",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-12",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Cataloging",
+    "parent": "LED000025",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2021-07-12 13:38:27.404091",
+  "name": "LED000025",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-12",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Other",
+    "parent": "LED000026",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2021-07-12 13:44:10.173111",
+  "name": "LED000026",
+  "notes": "Seller Reinstament",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-13",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000027",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-07-13 11:28:36.879573",
+  "name": "LED000027",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-14",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000028",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-07-14 10:36:19.820522",
+  "name": "LED000028",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-15",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000029",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-07-15 14:15:27.468301",
+  "name": "LED000029",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-16",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000030",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2021-07-16 14:21:19.848975",
+  "name": "LED000030",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-16",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Cataloging",
+    "parent": "LED000031",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2021-07-16 16:17:42.975656",
+  "name": "LED000031",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-21",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000032",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 3.0
+   }
+  ],
+  "leads_total": "3",
+  "modified": "2021-07-21 18:09:33.983788",
+  "name": "LED000032",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-22",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Cataloging",
+    "parent": "LED000033",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2021-07-22 14:41:39.305708",
+  "name": "LED000033",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-23",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Other",
+    "parent": "LED000034",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 9.0
+   }
+  ],
+  "leads_total": "9",
+  "modified": "2021-07-23 17:09:11.483512",
+  "name": "LED000034",
+  "notes": "Seller Reinstatement",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-23",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000035",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-07-23 17:09:24.404954",
+  "name": "LED000035",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-24",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000036",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-07-24 13:06:08.416742",
+  "name": "LED000036",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-26",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000037",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-07-26 11:54:42.675472",
+  "name": "LED000037",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-27",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000038",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 3.0
+   }
+  ],
+  "leads_total": "3",
+  "modified": "2021-07-27 11:10:01.370674",
+  "name": "LED000038",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-28",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000039",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-07-28 12:57:06.755610",
+  "name": "LED000039",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-29",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000040",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-07-29 13:33:06.496448",
+  "name": "LED000040",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-30",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000041",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 3.0
+   }
+  ],
+  "leads_total": "3",
+  "modified": "2021-07-30 14:08:58.124161",
+  "name": "LED000041",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-31",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000042",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-07-31 12:53:39.767460",
+  "name": "LED000042",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-03",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000043",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-08-03 13:10:10.696226",
+  "name": "LED000043",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-02",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000044",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-08-03 13:33:49.744634",
+  "name": "LED000044",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-04",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000045",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-08-04 10:50:33.257503",
+  "name": "LED000045",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-05",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000046",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-08-06 11:17:38.700617",
+  "name": "LED000046",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-06",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000047",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-08-06 11:17:59.370320",
+  "name": "LED000047",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-07",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000048",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2021-08-07 12:29:04.574900",
+  "name": "LED000048",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-07",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Cataloging",
+    "parent": "LED000049",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2021-08-07 12:29:21.193715",
+  "name": "LED000049",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-09",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000050",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-08-09 14:01:58.688263",
+  "name": "LED000050",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-10",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000051",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-08-10 11:12:21.115279",
+  "name": "LED000051",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-11",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000052",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-08-11 12:02:41.203838",
+  "name": "LED000052",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-12",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000053",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-08-12 12:56:18.312654",
+  "name": "LED000053",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-13",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000054",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 9.0
+   }
+  ],
+  "leads_total": "9",
+  "modified": "2021-08-13 13:39:53.054430",
+  "name": "LED000054",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-14",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000055",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 2.0
+   }
+  ],
+  "leads_total": "2",
+  "modified": "2021-08-14 12:04:47.184377",
+  "name": "LED000055",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-16",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000056",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-08-16 12:23:16.471834",
+  "name": "LED000056",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-18",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000057",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-08-18 11:41:39.160604",
+  "name": "LED000057",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-19",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000058",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-08-19 13:25:16.713969",
+  "name": "LED000058",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-23",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000059",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2021-08-23 11:35:53.167476",
+  "name": "LED000059",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-24",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000060",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-08-24 10:41:06.504076",
+  "name": "LED000060",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-25",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000061",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-08-25 10:58:07.778011",
+  "name": "LED000061",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-26",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000062",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-08-26 11:48:15.477570",
+  "name": "LED000062",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-27",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000063",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 5.0
+   }
+  ],
+  "leads_total": "5",
+  "modified": "2021-08-27 11:45:25.566064",
+  "name": "LED000063",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-28",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000064",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-08-28 11:23:09.655117",
+  "name": "LED000064",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-31",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000065",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-08-31 10:58:11.513940",
+  "name": "LED000065",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-09-01",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000066",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-09-01 12:15:03.100760",
+  "name": "LED000066",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-09-03",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000067",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 2.0
+   }
+  ],
+  "leads_total": "2",
+  "modified": "2021-09-03 10:40:16.012951",
+  "name": "LED000067",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-09-04",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000068",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2021-09-04 11:17:16.769987",
+  "name": "LED000068",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-09-06",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000069",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-09-06 12:01:14.421768",
+  "name": "LED000069",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-09-13",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000070",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 2.0
+   }
+  ],
+  "leads_total": "2",
+  "modified": "2021-09-13 11:41:56.013693",
+  "name": "LED000070",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-09-15",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000071",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-09-15 11:30:27.853506",
+  "name": "LED000071",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-09-17",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000072",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-09-17 10:33:47.695168",
+  "name": "LED000072",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-09-21",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000073",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-09-21 19:07:36.982693",
+  "name": "LED000073",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-09-22",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000074",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-09-22 10:53:56.946052",
+  "name": "LED000074",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-09-23",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Other",
+    "parent": "LED000075",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-09-23 12:05:10.718344",
+  "name": "LED000075",
+  "notes": "Seller Reinstatement",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-09-24",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000076",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-09-24 10:44:15.576329",
+  "name": "LED000076",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-09-27",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000077",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-09-27 12:16:12.187413",
+  "name": "LED000077",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-09-28",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000078",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-09-28 10:44:12.605775",
+  "name": "LED000078",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-10-04",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000079",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-10-04 11:00:23.171179",
+  "name": "LED000079",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-10-05",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000080",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 4.0
+   }
+  ],
+  "leads_total": "4",
+  "modified": "2021-10-05 11:22:42.874961",
+  "name": "LED000080",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-10-11",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000081",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-10-11 17:27:29.076546",
+  "name": "LED000081",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-10-12",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000082",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-10-12 11:44:03.465265",
+  "name": "LED000082",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-10-18",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000083",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 3.0
+   }
+  ],
+  "leads_total": "3",
+  "modified": "2021-10-18 11:56:45.957022",
+  "name": "LED000083",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-10-21",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000084",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-10-21 11:57:11.653780",
+  "name": "LED000084",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-10-25",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000085",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-10-25 12:40:49.052585",
+  "name": "LED000085",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-10-26",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000086",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 9.0
+   }
+  ],
+  "leads_total": "9",
+  "modified": "2021-10-28 11:40:13.296274",
+  "name": "LED000086",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-10-26",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Cataloging",
+    "parent": "LED000087",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2021-10-28 11:40:56.048882",
+  "name": "LED000087",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-10-26",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "Other",
+    "parent": "LED000088",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2021-10-28 11:41:59.427347",
+  "name": "LED000088",
+  "notes": "Seller Reinstatement",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-10-29",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000089",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-10-29 12:37:19.638783",
+  "name": "LED000089",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-05",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Account Management",
+    "parent": "LED000090",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 20.0
+   }
+  ],
+  "leads_total": "20",
+  "modified": "2021-11-05 12:28:44.494433",
+  "name": "LED000090",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-05",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000091",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-11-05 12:28:55.452167",
+  "name": "LED000091",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-08",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000092",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-11-08 18:43:12.317265",
+  "name": "LED000092",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-09",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000093",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-11-10 13:03:09.793551",
+  "name": "LED000093",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-10",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000094",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-11-11 14:52:45.774697",
+  "name": "LED000094",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-11",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000095",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-11-11 14:52:57.567806",
+  "name": "LED000095",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-12",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000096",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-11-12 11:28:24.680942",
+  "name": "LED000096",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-16",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000097",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-11-16 10:42:29.775936",
+  "name": "LED000097",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-17",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000098",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-11-17 10:55:01.205087",
+  "name": "LED000098",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-18",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000099",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-11-18 11:05:54.248467",
+  "name": "LED000099",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-23",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Cataloging",
+    "parent": "LED000100",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 11.0
+   }
+  ],
+  "leads_total": "11",
+  "modified": "2021-11-23 11:22:37.881013",
+  "name": "LED000100",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-23",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000101",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2021-11-23 11:26:32.661099",
+  "name": "LED000101",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-23",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "Other",
+    "parent": "LED000102",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-11-23 11:28:10.811586",
+  "name": "LED000102",
+  "notes": "Seller Reinstatement",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-24",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000103",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-11-24 12:50:26.601731",
+  "name": "LED000103",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-25",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000104",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-11-25 10:54:41.624212",
+  "name": "LED000104",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-26",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000105",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-11-26 12:57:41.684030",
+  "name": "LED000105",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-27",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000106",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 4.0
+   }
+  ],
+  "leads_total": "4",
+  "modified": "2021-11-27 12:07:09.154908",
+  "name": "LED000106",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-11-29",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000107",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-11-29 10:23:58.907622",
+  "name": "LED000107",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-02",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000108",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-12-02 11:02:09.905409",
+  "name": "LED000108",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-03",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000109",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-12-03 11:14:42.211673",
+  "name": "LED000109",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-04",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000110",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-12-04 10:45:56.546303",
+  "name": "LED000110",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-06",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000111",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-12-06 11:56:44.164871",
+  "name": "LED000111",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-08",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000112",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-12-08 12:37:43.659620",
+  "name": "LED000112",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-13",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000113",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 7.0
+   }
+  ],
+  "leads_total": "7",
+  "modified": "2021-12-13 11:16:08.195274",
+  "name": "LED000113",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-14",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000114",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-12-15 11:14:34.098947",
+  "name": "LED000114",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-16",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000115",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-12-16 11:25:01.910935",
+  "name": "LED000115",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-17",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000116",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-12-17 18:44:43.726836",
+  "name": "LED000116",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-21",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000117",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-12-21 12:34:42.849492",
+  "name": "LED000117",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-22",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000118",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2021-12-22 12:29:00.184160",
+  "name": "LED000118",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-23",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000119",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2021-12-23 11:37:23.875693",
+  "name": "LED000119",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-23",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Cataloging",
+    "parent": "LED000120",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2021-12-23 11:38:08.075406",
+  "name": "LED000120",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-28",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Account Management",
+    "parent": "LED000121",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 20.0
+   }
+  ],
+  "leads_total": "20",
+  "modified": "2021-12-28 19:04:52.699161",
+  "name": "LED000121",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-23",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000122",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2021-12-28 19:15:55.817628",
+  "name": "LED000122",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-25",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000123",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-12-28 19:16:05.930223",
+  "name": "LED000123",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-24",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Other",
+    "parent": "LED000124",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 11.0
+   }
+  ],
+  "leads_total": "11",
+  "modified": "2021-12-28 19:28:33.024523",
+  "name": "LED000124",
+  "notes": "Seller Reinstatement",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-12-29",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000125",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2021-12-30 16:06:12.245412",
+  "name": "LED000125",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-03",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000126",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2022-01-03 11:05:24.803748",
+  "name": "LED000126",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-04",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000127",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2022-01-04 12:04:39.397611",
+  "name": "LED000127",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-05",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000128",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2022-01-05 16:49:06.539319",
+  "name": "LED000128",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-06",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000129",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2022-01-06 17:02:16.010014",
+  "name": "LED000129",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-06",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Account Management",
+    "parent": "LED000130",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 19.0
+   }
+  ],
+  "leads_total": "19",
+  "modified": "2022-01-06 17:20:47.751181",
+  "name": "LED000130",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-06",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Ad Optimization",
+    "parent": "LED000131",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 5.0
+   }
+  ],
+  "leads_total": "5",
+  "modified": "2022-01-06 17:24:16.245543",
+  "name": "LED000131",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-09",
+  "day": "Sun",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000132",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2022-01-10 18:43:48.973062",
+  "name": "LED000132",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-11",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Account Management",
+    "parent": "LED000133",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 19.0
+   }
+  ],
+  "leads_total": "19",
+  "modified": "2022-01-11 11:35:22.656497",
+  "name": "LED000133",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-12",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000134",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 2.0
+   }
+  ],
+  "leads_total": "2",
+  "modified": "2022-01-12 16:26:57.707279",
+  "name": "LED000134",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-12",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Account Management",
+    "parent": "LED000135",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2022-01-12 16:27:14.017745",
+  "name": "LED000135",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-13",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000136",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2022-01-13 10:43:20.722271",
+  "name": "LED000136",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-14",
+  "day": "Fri",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000137",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2022-01-15 13:17:43.737440",
+  "name": "LED000137",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-15",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "No Leads",
+    "parent": "LED000138",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 0.0
+   }
+  ],
+  "leads_total": "0",
+  "modified": "2022-01-15 13:54:47.293484",
+  "name": "LED000138",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-18",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Ad Optimization",
+    "parent": "LED000139",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2022-01-18 12:39:32.552999",
+  "name": "LED000139",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-18",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Account Management",
+    "parent": "LED000140",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2022-01-18 12:39:50.013660",
+  "name": "LED000140",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-22",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Ad Optimization",
+    "parent": "LED000141",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 10.0
+   }
+  ],
+  "leads_total": "10",
+  "modified": "2022-01-22 08:13:05.209430",
+  "name": "LED000141",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-22",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Account Management",
+    "parent": "LED000142",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 1.0
+   }
+  ],
+  "leads_total": "1",
+  "modified": "2022-01-22 08:13:21.308390",
+  "name": "LED000142",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2022-01-22",
+  "day": "Sat",
+  "docstatus": 0,
+  "doctype": "EC Leads Report",
+  "leads_details": [
+   {
+    "desc": null,
+    "details": "SPN - Imaging",
+    "parent": "LED000143",
+    "parentfield": "leads_details",
+    "parenttype": "EC Leads Report",
+    "qty": 3.0
+   }
+  ],
+  "leads_total": "3",
+  "modified": "2022-01-22 08:13:36.313406",
+  "name": "LED000143",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

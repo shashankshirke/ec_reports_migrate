@@ -1,0 +1,44 @@
+[
+ {
+  "amount": 25000.0,
+  "date": "2021-06-12",
+  "day": "Sat",
+  "desc": "GDHS - advance towards website development",
+  "docstatus": 0,
+  "doctype": "EC Income Report",
+  "income_category": "Revenue",
+  "modified": "2021-06-15 19:33:00.333859",
+  "name": "INC000001",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "amount": 16200.0,
+  "date": "2021-06-23",
+  "day": "Wed",
+  "desc": "Saguna Jun'21 retainer payment",
+  "docstatus": 0,
+  "doctype": "EC Income Report",
+  "income_category": "Revenue",
+  "modified": "2021-06-23 19:16:44.543696",
+  "name": "INC000002",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "amount": 16200.0,
+  "date": "2021-06-28",
+  "day": "Mon",
+  "desc": "Kischo Apr'21 payment",
+  "docstatus": 0,
+  "doctype": "EC Income Report",
+  "income_category": "Revenue",
+  "modified": "2021-06-28 19:15:06.188956",
+  "name": "INC000003",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

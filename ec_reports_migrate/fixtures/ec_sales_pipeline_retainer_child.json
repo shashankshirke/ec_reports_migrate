@@ -1,0 +1,122 @@
+[
+ {
+  "amount": 35000.0,
+  "client_name": "Venturini Footwear",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Retainer Child",
+  "modified": "2021-06-15 22:42:16.167409",
+  "name": "58884cb87c",
+  "parent": "SLP000001",
+  "parentfield": "pipeline_retainer",
+  "parenttype": "EC Sales Pipeline Report"
+ },
+ {
+  "amount": 35000.0,
+  "client_name": "Venturini Footwear",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Retainer Child",
+  "modified": "2021-06-15 22:42:44.723246",
+  "name": "ee95c2032b",
+  "parent": "SLP000002",
+  "parentfield": "pipeline_retainer",
+  "parenttype": "EC Sales Pipeline Report"
+ },
+ {
+  "amount": 15000.0,
+  "client_name": "Cozycare",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Retainer Child",
+  "modified": "2021-06-15 22:42:16.167409",
+  "name": "6448f7312b",
+  "parent": "SLP000001",
+  "parentfield": "pipeline_retainer",
+  "parenttype": "EC Sales Pipeline Report"
+ },
+ {
+  "amount": 15000.0,
+  "client_name": "Cozycare",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Retainer Child",
+  "modified": "2021-06-15 22:42:44.723246",
+  "name": "bf3bf174a1",
+  "parent": "SLP000002",
+  "parentfield": "pipeline_retainer",
+  "parenttype": "EC Sales Pipeline Report"
+ },
+ {
+  "amount": 25000.0,
+  "client_name": "Hem Incense",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Retainer Child",
+  "modified": "2021-06-15 22:42:16.167409",
+  "name": "029a247d36",
+  "parent": "SLP000001",
+  "parentfield": "pipeline_retainer",
+  "parenttype": "EC Sales Pipeline Report"
+ },
+ {
+  "amount": 25000.0,
+  "client_name": "Hem Incense",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Retainer Child",
+  "modified": "2021-06-15 22:42:44.723246",
+  "name": "263b5d36c6",
+  "parent": "SLP000002",
+  "parentfield": "pipeline_retainer",
+  "parenttype": "EC Sales Pipeline Report"
+ },
+ {
+  "amount": 15000.0,
+  "client_name": "Northburry",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Retainer Child",
+  "modified": "2021-06-15 22:42:16.167409",
+  "name": "055889640c",
+  "parent": "SLP000001",
+  "parentfield": "pipeline_retainer",
+  "parenttype": "EC Sales Pipeline Report"
+ },
+ {
+  "amount": 15000.0,
+  "client_name": "Northburry",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Retainer Child",
+  "modified": "2021-06-15 22:42:44.723246",
+  "name": "399399eac3",
+  "parent": "SLP000002",
+  "parentfield": "pipeline_retainer",
+  "parenttype": "EC Sales Pipeline Report"
+ },
+ {
+  "amount": 15000.0,
+  "client_name": "HP Nutrition",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Retainer Child",
+  "modified": "2021-06-15 22:42:16.167409",
+  "name": "931a3e9af6",
+  "parent": "SLP000001",
+  "parentfield": "pipeline_retainer",
+  "parenttype": "EC Sales Pipeline Report"
+ },
+ {
+  "amount": 15000.0,
+  "client_name": "HP Nutrition",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Retainer Child",
+  "modified": "2021-06-15 22:42:44.723246",
+  "name": "c6819e29f0",
+  "parent": "SLP000002",
+  "parentfield": "pipeline_retainer",
+  "parenttype": "EC Sales Pipeline Report"
+ }
+]

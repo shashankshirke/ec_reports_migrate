@@ -1,0 +1,94 @@
+[
+ {
+  "date": "2021-06-07",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Liquidity Report",
+  "liquidity_details": [
+   {
+    "amount": 250000.0,
+    "desc": null,
+    "details": "Bank Account",
+    "parent": "LQD000001",
+    "parentfield": "liquidity_details",
+    "parenttype": "EC Liquidity Report"
+   }
+  ],
+  "liquidity_total": "250000",
+  "modified": "2021-06-09 00:16:03.759859",
+  "name": "LQD000001",
+  "notes": "Estimate balance. SBI net banking not working.",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-15",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Liquidity Report",
+  "liquidity_details": [
+   {
+    "amount": 316160.37,
+    "desc": null,
+    "details": "Bank Account",
+    "parent": "LQD000002",
+    "parentfield": "liquidity_details",
+    "parenttype": "EC Liquidity Report"
+   }
+  ],
+  "liquidity_total": "316160.37",
+  "modified": "2021-06-15 22:52:56.459550",
+  "name": "LQD000002",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-23",
+  "day": "Wed",
+  "docstatus": 0,
+  "doctype": "EC Liquidity Report",
+  "liquidity_details": [
+   {
+    "amount": 320846.37,
+    "desc": null,
+    "details": "Bank Account",
+    "parent": "LQD000003",
+    "parentfield": "liquidity_details",
+    "parenttype": "EC Liquidity Report"
+   }
+  ],
+  "liquidity_total": "320846.37",
+  "modified": "2021-06-23 19:16:01.649153",
+  "name": "LQD000003",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-29",
+  "day": "Thu",
+  "docstatus": 0,
+  "doctype": "EC Liquidity Report",
+  "liquidity_details": [
+   {
+    "amount": 401373.85,
+    "desc": null,
+    "details": "Bank Account",
+    "parent": "LQD000004",
+    "parentfield": "liquidity_details",
+    "parenttype": "EC Liquidity Report"
+   }
+  ],
+  "liquidity_total": "401373.85",
+  "modified": "2021-07-29 19:39:20.252168",
+  "name": "LQD000004",
+  "notes": "SBI",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

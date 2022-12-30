@@ -1,0 +1,58 @@
+[
+ {
+  "amount": 18400.0,
+  "date": "2021-06-15",
+  "day": "Tue",
+  "desc": "Mala Rajwadkar salary for May'21",
+  "docstatus": 0,
+  "doctype": "EC Expense Report",
+  "expense_category": "Human Resource",
+  "modified": "2021-06-15 22:53:48.212077",
+  "name": "EXP000001",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "amount": 11514.0,
+  "date": "2021-06-16",
+  "day": "Wed",
+  "desc": "GST for May 2021",
+  "docstatus": 0,
+  "doctype": "EC Expense Report",
+  "expense_category": "GST",
+  "modified": "2021-06-16 17:32:34.255331",
+  "name": "EXP000002",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "amount": 1217.76,
+  "date": "2021-06-26",
+  "day": "Sat",
+  "desc": "Zoho Workplace monthly renewal",
+  "docstatus": 0,
+  "doctype": "EC Expense Report",
+  "expense_category": "Technology",
+  "modified": "2021-06-26 01:27:32.995167",
+  "name": "EXP000003",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "amount": 9156.0,
+  "date": "2021-09-04",
+  "day": "Sat",
+  "desc": "Shashank StanC credit card payment towards taxi for Jun-Aug21",
+  "docstatus": 0,
+  "doctype": "EC Expense Report",
+  "expense_category": "Other",
+  "modified": "2021-09-04 22:00:48.919737",
+  "name": "EXP000004",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

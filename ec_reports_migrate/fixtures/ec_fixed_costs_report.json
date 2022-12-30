@@ -1,0 +1,57 @@
+[
+ {
+  "date": "2021-06-07",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Fixed Costs Report",
+  "fixed_costs_details": [
+   {
+    "amount": 18400.0,
+    "desc": null,
+    "details": "Mala Rajwadkar",
+    "parent": "FXC000001",
+    "parentfield": "fixed_costs_details",
+    "parenttype": "EC Fixed Costs Report"
+   },
+   {
+    "amount": 1217.0,
+    "desc": null,
+    "details": "Zoho Workplace",
+    "parent": "FXC000001",
+    "parentfield": "fixed_costs_details",
+    "parenttype": "EC Fixed Costs Report"
+   },
+   {
+    "amount": 22350.0,
+    "desc": null,
+    "details": "Suvashis Banerjee",
+    "parent": "FXC000001",
+    "parentfield": "fixed_costs_details",
+    "parenttype": "EC Fixed Costs Report"
+   },
+   {
+    "amount": 35000.0,
+    "desc": null,
+    "details": "Kshitij Patil",
+    "parent": "FXC000001",
+    "parentfield": "fixed_costs_details",
+    "parenttype": "EC Fixed Costs Report"
+   },
+   {
+    "amount": 35000.0,
+    "desc": null,
+    "details": "Shashank Shirke",
+    "parent": "FXC000001",
+    "parentfield": "fixed_costs_details",
+    "parenttype": "EC Fixed Costs Report"
+   }
+  ],
+  "fixed_costs_total": "111967",
+  "modified": "2021-06-10 23:37:46.080765",
+  "name": "FXC000001",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

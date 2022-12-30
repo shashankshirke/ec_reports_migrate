@@ -1,0 +1,389 @@
+[
+ {
+  "date": "2021-06-07",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Outstanding Report",
+  "modified": "2021-06-09 00:13:35.249687",
+  "name": "OUT000001",
+  "notes": null,
+  "outstanding_details": [
+   {
+    "amount": 15000.0,
+    "client_name": "Saguna Baug",
+    "desc": null,
+    "parent": "OUT000001",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 10000.0,
+    "client_name": "Saguna Baug",
+    "desc": "Website balance",
+    "parent": "OUT000001",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 5500.0,
+    "client_name": "Green Dragon",
+    "desc": null,
+    "parent": "OUT000001",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 75000.0,
+    "client_name": "Jakmans Clothing",
+    "desc": "Apr21, May21, Jun21",
+    "parent": "OUT000001",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 45000.0,
+    "client_name": "Kishco",
+    "desc": "Apr21, May21, Jun21",
+    "parent": "OUT000001",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 50000.0,
+    "client_name": "Arasan Clothing",
+    "desc": "Website balance",
+    "parent": "OUT000001",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 25000.0,
+    "client_name": "Praamik Collections",
+    "desc": "Website balance",
+    "parent": "OUT000001",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   }
+  ],
+  "outstanding_total": "225500",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-15",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Outstanding Report",
+  "modified": "2021-06-15 22:39:37.217072",
+  "name": "OUT000002",
+  "notes": null,
+  "outstanding_details": [
+   {
+    "amount": 15000.0,
+    "client_name": "Saguna Baug",
+    "desc": null,
+    "parent": "OUT000002",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 10000.0,
+    "client_name": "Saguna Baug",
+    "desc": "Website Last leg",
+    "parent": "OUT000002",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 75000.0,
+    "client_name": "Jakmans Clothing",
+    "desc": null,
+    "parent": "OUT000002",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 45000.0,
+    "client_name": "Kishco",
+    "desc": null,
+    "parent": "OUT000002",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 5500.0,
+    "client_name": "Green Dragon",
+    "desc": null,
+    "parent": "OUT000002",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 50000.0,
+    "client_name": "Arasan Clothing",
+    "desc": null,
+    "parent": "OUT000002",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 25000.0,
+    "client_name": "Green Dragon",
+    "desc": "Website",
+    "parent": "OUT000002",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 25000.0,
+    "client_name": "Praamik Collections",
+    "desc": null,
+    "parent": "OUT000002",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   }
+  ],
+  "outstanding_total": "250500",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-06-28",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Outstanding Report",
+  "modified": "2021-06-28 19:16:17.380866",
+  "name": "OUT000003",
+  "notes": null,
+  "outstanding_details": [
+   {
+    "amount": 10000.0,
+    "client_name": "Saguna Baug",
+    "desc": "Website Last leg",
+    "parent": "OUT000003",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 75000.0,
+    "client_name": "Jakmans Clothing",
+    "desc": null,
+    "parent": "OUT000003",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 30000.0,
+    "client_name": "Kishco",
+    "desc": "May'21, Jun'21",
+    "parent": "OUT000003",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 5500.0,
+    "client_name": "Green Dragon",
+    "desc": null,
+    "parent": "OUT000003",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 50000.0,
+    "client_name": "Arasan Clothing",
+    "desc": null,
+    "parent": "OUT000003",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 25000.0,
+    "client_name": "Green Dragon",
+    "desc": "Website",
+    "parent": "OUT000003",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 25000.0,
+    "client_name": "Praamik Collections",
+    "desc": null,
+    "parent": "OUT000003",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   }
+  ],
+  "outstanding_total": "220500",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-07-18",
+  "day": "Sun",
+  "docstatus": 0,
+  "doctype": "EC Outstanding Report",
+  "modified": "2021-07-18 19:50:29.276998",
+  "name": "OUT000004",
+  "notes": "All outstanding are including GST",
+  "outstanding_details": [
+   {
+    "amount": 53100.0,
+    "client_name": "Kishco",
+    "desc": "May21, Jun21, Jul21",
+    "parent": "OUT000004",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 13000.0,
+    "client_name": "Green Dragon",
+    "desc": "Jun21, Jul21",
+    "parent": "OUT000004",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 59000.0,
+    "client_name": "Jakmans Clothing",
+    "desc": null,
+    "parent": "OUT000004",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 17700.0,
+    "client_name": "Saguna Baug",
+    "desc": "Jul21",
+    "parent": "OUT000004",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 10000.0,
+    "client_name": "Saguna Baug",
+    "desc": "Website",
+    "parent": "OUT000004",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 34000.0,
+    "client_name": "Green Dragon",
+    "desc": "Website",
+    "parent": "OUT000004",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 34000.0,
+    "client_name": "Praamik Collections",
+    "desc": "Website",
+    "parent": "OUT000004",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 68000.0,
+    "client_name": "Arasan Clothing",
+    "desc": "Website",
+    "parent": "OUT000004",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 25000.0,
+    "client_name": "All About Dance",
+    "desc": null,
+    "parent": "OUT000004",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   }
+  ],
+  "outstanding_total": "313800",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ },
+ {
+  "date": "2021-08-02",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Outstanding Report",
+  "modified": "2021-08-02 13:08:46.112889",
+  "name": "OUT000005",
+  "notes": "All outstanding are including GST",
+  "outstanding_details": [
+   {
+    "amount": 70800.0,
+    "client_name": "Kishco",
+    "desc": "May21, Jun21, Jul21, Jul21",
+    "parent": "OUT000005",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 19500.0,
+    "client_name": "Green Dragon",
+    "desc": "Jun21, Jul21",
+    "parent": "OUT000005",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 59000.0,
+    "client_name": "Jakmans Clothing",
+    "desc": "May21, Jun21, Jul21, Aug21",
+    "parent": "OUT000005",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 35400.0,
+    "client_name": "Saguna Baug",
+    "desc": "Jul21",
+    "parent": "OUT000005",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 10000.0,
+    "client_name": "Saguna Baug",
+    "desc": "Website",
+    "parent": "OUT000005",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 34000.0,
+    "client_name": "Green Dragon",
+    "desc": "Website",
+    "parent": "OUT000005",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 68000.0,
+    "client_name": "Arasan Clothing",
+    "desc": "Website",
+    "parent": "OUT000005",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   },
+   {
+    "amount": 25000.0,
+    "client_name": "All About Dance",
+    "desc": null,
+    "parent": "OUT000005",
+    "parentfield": "outstanding_details",
+    "parenttype": "EC Outstanding Report"
+   }
+  ],
+  "outstanding_total": "355700",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null
+ }
+]

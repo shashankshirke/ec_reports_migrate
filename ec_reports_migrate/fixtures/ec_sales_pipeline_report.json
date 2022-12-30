@@ -1,0 +1,176 @@
+[
+ {
+  "date": "2021-06-07",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Report",
+  "modified": "2021-06-15 22:42:16.167409",
+  "name": "SLP000001",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "pipeline_onetime": [
+   {
+    "amount": 5000.0,
+    "client_name": "Northburry",
+    "desc": null,
+    "parent": "SLP000001",
+    "parentfield": "pipeline_onetime",
+    "parenttype": "EC Sales Pipeline Report"
+   },
+   {
+    "amount": 50000.0,
+    "client_name": "Green Dragon",
+    "desc": null,
+    "parent": "SLP000001",
+    "parentfield": "pipeline_onetime",
+    "parenttype": "EC Sales Pipeline Report"
+   },
+   {
+    "amount": 151000.0,
+    "client_name": "AAWI",
+    "desc": null,
+    "parent": "SLP000001",
+    "parentfield": "pipeline_onetime",
+    "parenttype": "EC Sales Pipeline Report"
+   },
+   {
+    "amount": 20000.0,
+    "client_name": "All About Dance",
+    "desc": null,
+    "parent": "SLP000001",
+    "parentfield": "pipeline_onetime",
+    "parenttype": "EC Sales Pipeline Report"
+   }
+  ],
+  "pipeline_onetime_total": "226000",
+  "pipeline_retainer": [
+   {
+    "amount": 35000.0,
+    "client_name": "Venturini Footwear",
+    "desc": null,
+    "parent": "SLP000001",
+    "parentfield": "pipeline_retainer",
+    "parenttype": "EC Sales Pipeline Report"
+   },
+   {
+    "amount": 15000.0,
+    "client_name": "Cozycare",
+    "desc": null,
+    "parent": "SLP000001",
+    "parentfield": "pipeline_retainer",
+    "parenttype": "EC Sales Pipeline Report"
+   },
+   {
+    "amount": 25000.0,
+    "client_name": "Hem Incense",
+    "desc": null,
+    "parent": "SLP000001",
+    "parentfield": "pipeline_retainer",
+    "parenttype": "EC Sales Pipeline Report"
+   },
+   {
+    "amount": 15000.0,
+    "client_name": "Northburry",
+    "desc": null,
+    "parent": "SLP000001",
+    "parentfield": "pipeline_retainer",
+    "parenttype": "EC Sales Pipeline Report"
+   },
+   {
+    "amount": 15000.0,
+    "client_name": "HP Nutrition",
+    "desc": null,
+    "parent": "SLP000001",
+    "parentfield": "pipeline_retainer",
+    "parenttype": "EC Sales Pipeline Report"
+   }
+  ],
+  "pipeline_retainer_total": "105000",
+  "pipeline_total": "331000"
+ },
+ {
+  "date": "2021-06-15",
+  "day": "Tue",
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Report",
+  "modified": "2021-06-15 22:42:44.723246",
+  "name": "SLP000002",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "pipeline_onetime": [
+   {
+    "amount": 5000.0,
+    "client_name": "Northburry",
+    "desc": null,
+    "parent": "SLP000002",
+    "parentfield": "pipeline_onetime",
+    "parenttype": "EC Sales Pipeline Report"
+   },
+   {
+    "amount": 151000.0,
+    "client_name": "AAWI",
+    "desc": null,
+    "parent": "SLP000002",
+    "parentfield": "pipeline_onetime",
+    "parenttype": "EC Sales Pipeline Report"
+   },
+   {
+    "amount": 20000.0,
+    "client_name": "All About Dance",
+    "desc": null,
+    "parent": "SLP000002",
+    "parentfield": "pipeline_onetime",
+    "parenttype": "EC Sales Pipeline Report"
+   }
+  ],
+  "pipeline_onetime_total": "176000",
+  "pipeline_retainer": [
+   {
+    "amount": 35000.0,
+    "client_name": "Venturini Footwear",
+    "desc": null,
+    "parent": "SLP000002",
+    "parentfield": "pipeline_retainer",
+    "parenttype": "EC Sales Pipeline Report"
+   },
+   {
+    "amount": 15000.0,
+    "client_name": "Cozycare",
+    "desc": null,
+    "parent": "SLP000002",
+    "parentfield": "pipeline_retainer",
+    "parenttype": "EC Sales Pipeline Report"
+   },
+   {
+    "amount": 25000.0,
+    "client_name": "Hem Incense",
+    "desc": null,
+    "parent": "SLP000002",
+    "parentfield": "pipeline_retainer",
+    "parenttype": "EC Sales Pipeline Report"
+   },
+   {
+    "amount": 15000.0,
+    "client_name": "Northburry",
+    "desc": null,
+    "parent": "SLP000002",
+    "parentfield": "pipeline_retainer",
+    "parenttype": "EC Sales Pipeline Report"
+   },
+   {
+    "amount": 15000.0,
+    "client_name": "HP Nutrition",
+    "desc": null,
+    "parent": "SLP000002",
+    "parentfield": "pipeline_retainer",
+    "parenttype": "EC Sales Pipeline Report"
+   }
+  ],
+  "pipeline_retainer_total": "105000",
+  "pipeline_total": "281000"
+ }
+]

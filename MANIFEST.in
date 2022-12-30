@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include ec_reports_migrate *.css
+recursive-include ec_reports_migrate *.csv
+recursive-include ec_reports_migrate *.html
+recursive-include ec_reports_migrate *.ico
+recursive-include ec_reports_migrate *.js
+recursive-include ec_reports_migrate *.json
+recursive-include ec_reports_migrate *.md
+recursive-include ec_reports_migrate *.png
+recursive-include ec_reports_migrate *.py
+recursive-include ec_reports_migrate *.svg
+recursive-include ec_reports_migrate *.txt
+recursive-exclude ec_reports_migrate *.pyc

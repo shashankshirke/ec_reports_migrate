@@ -1,0 +1,49 @@
+[
+ {
+  "date": "2021-06-07",
+  "day": "Mon",
+  "docstatus": 0,
+  "doctype": "EC Retainers Report",
+  "modified": "2021-06-09 00:03:00.323147",
+  "name": "RTN000001",
+  "notes": null,
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "retainer_details": [
+   {
+    "amount": 15000.0,
+    "client_name": "Saguna Baug",
+    "desc": null,
+    "parent": "RTN000001",
+    "parentfield": "retainer_details",
+    "parenttype": "EC Retainers Report"
+   },
+   {
+    "amount": 5500.0,
+    "client_name": "Green Dragon",
+    "desc": null,
+    "parent": "RTN000001",
+    "parentfield": "retainer_details",
+    "parenttype": "EC Retainers Report"
+   },
+   {
+    "amount": 15000.0,
+    "client_name": "Kishco",
+    "desc": null,
+    "parent": "RTN000001",
+    "parentfield": "retainer_details",
+    "parenttype": "EC Retainers Report"
+   },
+   {
+    "amount": 25000.0,
+    "client_name": "Jakmans Clothing",
+    "desc": null,
+    "parent": "RTN000001",
+    "parentfield": "retainer_details",
+    "parenttype": "EC Retainers Report"
+   }
+  ],
+  "retainer_total": "60500"
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "amount": 5000.0,
+  "client_name": "Northburry",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Onetime Child",
+  "modified": "2021-06-15 22:42:16.167409",
+  "name": "c71a4cc745",
+  "parent": "SLP000001",
+  "parentfield": "pipeline_onetime",
+  "parenttype": "EC Sales Pipeline Report"
+ },
+ {
+  "amount": 5000.0,
+  "client_name": "Northburry",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Onetime Child",
+  "modified": "2021-06-15 22:42:44.723246",
+  "name": "3968f3b0ad",
+  "parent": "SLP000002",
+  "parentfield": "pipeline_onetime",
+  "parenttype": "EC Sales Pipeline Report"
+ },
+ {
+  "amount": 50000.0,
+  "client_name": "Green Dragon",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Onetime Child",
+  "modified": "2021-06-15 22:42:16.167409",
+  "name": "bec054163d",
+  "parent": "SLP000001",
+  "parentfield": "pipeline_onetime",
+  "parenttype": "EC Sales Pipeline Report"
+ },
+ {
+  "amount": 151000.0,
+  "client_name": "AAWI",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Onetime Child",
+  "modified": "2021-06-15 22:42:44.723246",
+  "name": "c6f11a2305",
+  "parent": "SLP000002",
+  "parentfield": "pipeline_onetime",
+  "parenttype": "EC Sales Pipeline Report"
+ },
+ {
+  "amount": 151000.0,
+  "client_name": "AAWI",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Onetime Child",
+  "modified": "2021-06-15 22:42:16.167409",
+  "name": "a470839f4c",
+  "parent": "SLP000001",
+  "parentfield": "pipeline_onetime",
+  "parenttype": "EC Sales Pipeline Report"
+ },
+ {
+  "amount": 20000.0,
+  "client_name": "All About Dance",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Onetime Child",
+  "modified": "2021-06-15 22:42:44.723246",
+  "name": "2201f701d2",
+  "parent": "SLP000002",
+  "parentfield": "pipeline_onetime",
+  "parenttype": "EC Sales Pipeline Report"
+ },
+ {
+  "amount": 20000.0,
+  "client_name": "All About Dance",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Sales Pipeline Onetime Child",
+  "modified": "2021-06-15 22:42:16.167409",
+  "name": "a23dbef5d5",
+  "parent": "SLP000001",
+  "parentfield": "pipeline_onetime",
+  "parenttype": "EC Sales Pipeline Report"
+ }
+]

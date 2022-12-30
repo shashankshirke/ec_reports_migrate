@@ -1,0 +1,50 @@
+[
+ {
+  "amount": 250000.0,
+  "desc": null,
+  "details": "Bank Account",
+  "docstatus": 0,
+  "doctype": "EC Liquidity Child",
+  "modified": "2021-06-09 00:16:03.759859",
+  "name": "1ce280a173",
+  "parent": "LQD000001",
+  "parentfield": "liquidity_details",
+  "parenttype": "EC Liquidity Report"
+ },
+ {
+  "amount": 316160.37,
+  "desc": null,
+  "details": "Bank Account",
+  "docstatus": 0,
+  "doctype": "EC Liquidity Child",
+  "modified": "2021-06-15 22:52:56.459550",
+  "name": "ebd02004b0",
+  "parent": "LQD000002",
+  "parentfield": "liquidity_details",
+  "parenttype": "EC Liquidity Report"
+ },
+ {
+  "amount": 320846.37,
+  "desc": null,
+  "details": "Bank Account",
+  "docstatus": 0,
+  "doctype": "EC Liquidity Child",
+  "modified": "2021-06-23 19:16:01.649153",
+  "name": "d3e090b608",
+  "parent": "LQD000003",
+  "parentfield": "liquidity_details",
+  "parenttype": "EC Liquidity Report"
+ },
+ {
+  "amount": 401373.85,
+  "desc": null,
+  "details": "Bank Account",
+  "docstatus": 0,
+  "doctype": "EC Liquidity Child",
+  "modified": "2021-07-29 19:39:20.252168",
+  "name": "a1c3077078",
+  "parent": "LQD000004",
+  "parentfield": "liquidity_details",
+  "parenttype": "EC Liquidity Report"
+ }
+]

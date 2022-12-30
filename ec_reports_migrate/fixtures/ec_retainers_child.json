@@ -1,0 +1,50 @@
+[
+ {
+  "amount": 15000.0,
+  "client_name": "Saguna Baug",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Retainers Child",
+  "modified": "2021-06-09 00:03:00.323147",
+  "name": "225d2849ef",
+  "parent": "RTN000001",
+  "parentfield": "retainer_details",
+  "parenttype": "EC Retainers Report"
+ },
+ {
+  "amount": 5500.0,
+  "client_name": "Green Dragon",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Retainers Child",
+  "modified": "2021-06-09 00:03:00.323147",
+  "name": "778ffbb9e8",
+  "parent": "RTN000001",
+  "parentfield": "retainer_details",
+  "parenttype": "EC Retainers Report"
+ },
+ {
+  "amount": 15000.0,
+  "client_name": "Kishco",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Retainers Child",
+  "modified": "2021-06-09 00:03:00.323147",
+  "name": "e158cf12c2",
+  "parent": "RTN000001",
+  "parentfield": "retainer_details",
+  "parenttype": "EC Retainers Report"
+ },
+ {
+  "amount": 25000.0,
+  "client_name": "Jakmans Clothing",
+  "desc": null,
+  "docstatus": 0,
+  "doctype": "EC Retainers Child",
+  "modified": "2021-06-09 00:03:00.323147",
+  "name": "ad9aa98e09",
+  "parent": "RTN000001",
+  "parentfield": "retainer_details",
+  "parenttype": "EC Retainers Report"
+ }
+]
